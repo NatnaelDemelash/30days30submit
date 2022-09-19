@@ -3,4 +3,4 @@ Submit Name: Dad Jokes Generator
 preview 👇
 
 
-https://github.com/ShaifArfan/30days30submits/raw/master/day-03/preview/preview.jpg
+![image](https://user-images.githubusercontent.com/99090574/191094206-99d014a6-57cc-4a81-b5dc-2f7a6b01df09.png)
